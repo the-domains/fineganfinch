@@ -1,0 +1,28 @@
+name: fineganfinch
+favicon: null
+layout_spectrum: 0.6226737489923835
+typography_spectrum: 0.2278843072708696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.12903552083298564
+  lightness: 0.7980465225409716
+  saturation: 0.5234608203172684
+  rhythmicContrast: 0.2747789288405329
+purpose: []
