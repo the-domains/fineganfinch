@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T23:42:40.933Z'
-dateModified: '2016-02-12T23:42:14.268Z'
+datePublished: '2016-02-29T23:08:35.392Z'
+dateModified: '2016-02-29T23:02:33.201Z'
 title: ''
 author: []
+sourcePath: _posts/2016-02-12-fineganfinch-hello.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-fineganfinch-hello.md
-published: true
 url: fineganfinch-hello/index.html
 _type: Article
 
