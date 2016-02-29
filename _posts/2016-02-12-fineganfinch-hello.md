@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T23:08:35.392Z'
-dateModified: '2016-02-29T23:02:33.201Z'
+datePublished: '2016-02-29T23:12:23.227Z'
+dateModified: '2016-02-29T23:12:11.076Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-12-fineganfinch-hello.md
@@ -26,4 +26,4 @@ _type: Article
 
 ## [sonic exploration into alien territories][0]
 
-[0]: null
+[0]: https://app.thegrid.io/posts/a4163792-6df0-464c-a3b8-056da9ac3433/null
