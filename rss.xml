@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[FINEGAN FINCH]]></title>
         <description><![CDATA[FINEGAN FINCH]]></description>
-        <link>https://thegrid.ai/fineganfinch/</link>
+        <link>http://fineganfinch.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 23:21:16 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/fineganfinch/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 17:54:10 GMT</lastBuildDate>
+        <atom:link href="http://fineganfinch.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec62fc51-e91f-4113-92a9-c1d3e8bddb7e.JPG">]]></description>
-            <link>https://thegrid.ai/fineganfinch/f71dae9a-9092-40a4-83a8-d1448d73e72c/index.html</link>
+            <link>http://fineganfinch.com/f71dae9a-9092-40a4-83a8-d1448d73e72c/index.html</link>
             <guid isPermaLink="false">f71dae9a-9092-40a4-83a8-d1448d73e72c</guid>
             <pubDate>Mon, 29 Feb 2016 23:18:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[GDC prediction]]></title>
+            <description><![CDATA[<article><h1>GDC prediction</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2936abc3b371f79059044f9874f3e9c9f4159d5.png"></article>]]></description>
+            <link>http://fineganfinch.com/gdc-prediction/index.html</link>
+            <guid isPermaLink="false">7f08cb94-29ef-45e0-b44d-b3c532fd9883</guid>
+            <pubDate>Thu, 24 Mar 2016 17:53:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[sonic exploration into alien territories]]></title>
             <description><![CDATA[<article><h1>sonic exploration into alien territories</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f80e794e0f493b5bdfbf83b1386e52183a84b549.jpg"></article>]]></description>
-            <link>https://thegrid.ai/fineganfinch/fineganfinch-hello/index.html</link>
+            <link>http://fineganfinch.com/fineganfinch-hello/index.html</link>
             <guid isPermaLink="false">a4163792-6df0-464c-a3b8-056da9ac3433</guid>
             <pubDate>Mon, 29 Feb 2016 23:18:18 GMT</pubDate>
         </item>
